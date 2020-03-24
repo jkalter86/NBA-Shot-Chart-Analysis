@@ -14,4 +14,6 @@ Used the "coolwarm" colormap in the Percentile Rank columns to show visually how
 
 Created a specific function to highlight in gold those percentages that are in the Top Ten for the league in each location
 
+## Below is the Dallas Mavericks Chart for the 2019-20 season so far:
+
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Dallas%20Mavericks.png)
