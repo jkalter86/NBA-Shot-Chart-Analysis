@@ -3,7 +3,7 @@ Used Python and Pandas to extract player data from NBA API into individual team 
 
 Pulled data from NBA API provided by https://github.com/swar
 
-## Created Columns representing 14 specific spots on the court while also including total columns for 2pt, 3pt and Overall Total
+Created Columns representing 14 specific spots on the court while also including total columns for 2pt, 3pt and Overall Total
 
 Then created the columns for Percentile Rank & League Rank for each location.
 
