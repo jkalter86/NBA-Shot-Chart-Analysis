@@ -10,7 +10,7 @@ Then created the columns for Percentile Rank & League Rank for each location.
 For each location, I pulled the average attempts and only included those players who have attempted at least that average.
 The final chart only includes those players who attempted at least the average for total shot attempts
 
-Used the "coolwarm" colormap in the Percentile Rank columns to show visually how well a player is shooting in a particular location
+Used the "coolwarm" colormap in the Percentile columns to show visually how well a player is shooting by looking through the rows and how well the team is generally shooting by looking through the columns
 
 Created a specific function to highlight in gold those percentages that are in the Top Ten for the league in each location
 
