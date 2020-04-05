@@ -3,9 +3,9 @@ Used Python and Pandas to extract player data from NBA API into individual team 
 
 Pulled data from NBA API provided by https://github.com/swar
 
-Created Columns representing 14 specific spots on the court while also including total columns for 2pt, 3pt and Overall Total
+Created Columns representing 14 specific spots on the court and their league Percentile Ranks while also including total columns and their league Percentile Ranks for 2pt, 3pt and Overall Total for each player
 
-Then created the columns for Percentile Rank & League Rank for each location.
+Then created the columns for Percentile & League Rank for each location.
 
 For each location, I pulled the average attempts and only included those players who have attempted at least that average.
 The final chart only includes those players who attempted at least the average for total shot attempts
