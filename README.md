@@ -14,7 +14,7 @@ Used the "coolwarm" colormap in the Percentile columns to show visually how well
 
 Created a specific function to highlight in gold those percentages that are in the Top Ten for the league in each location
 
-Can run for each team; outputting the current roster and output either current or historical shot data
+Can run for each team; outputting the current roster and either current or historical shot data
 ## Below is the LA Clippers Chart for the 2019-20 season so far:
 
 
