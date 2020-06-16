@@ -25,3 +25,4 @@ Can run for each team; outputting the current roster and either current or histo
 ### Below are the shotcharts for the Lakers and Rockets for the 2019-20 season so far:
 
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers.png)
+![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Houston%20Rockets.png)
