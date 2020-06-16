@@ -1,6 +1,6 @@
 # NBA-Shot-Chart-Analysis #
 
-## Roster DataFrame
+## Roster DataFrame output from Detailed_NBA_ShotChart_DataFrame.ipynb
 Used Python and Pandas to extract player data from NBA API into individual team dataframes
 
 Pulled data from NBA API provided by https://github.com/swar
@@ -19,3 +19,9 @@ Can run for each team; outputting the current roster and either current or histo
 
 
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/LA%20Clippers.png)
+
+## Scatter Plot output from Team-Visual_ShotChart.ipynb
+### Detailed shotchart of every NBA team; with average distances made from three (Above the Break) and overall two
+## Below are the shotcharts for the Lakers and Rockets for the 2019-20 season so far:
+
+
