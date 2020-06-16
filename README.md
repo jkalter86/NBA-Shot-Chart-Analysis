@@ -1,4 +1,6 @@
 # NBA-Shot-Chart-Analysis #
+
+## Roster DataFrame
 Used Python and Pandas to extract player data from NBA API into individual team dataframes
 
 Pulled data from NBA API provided by https://github.com/swar
