@@ -34,7 +34,7 @@ The final chart only includes those players who attempted at least the average f
 
 • Below are the offensive & defensive shotcharts for the Lakers and Rockets for the 2019-20 season so far:
 
-![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers.png)
+![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Shot%20Chart.png)
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Defensive%20Shot%20Chart.png)
-![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Houston%20Rockets.png)
+![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Houston%20Rockets%20Shot%20Chart.png)
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Houston%20Rockets%20Defensive%20Shot%20Chart.png)
