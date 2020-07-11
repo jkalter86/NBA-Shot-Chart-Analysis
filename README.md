@@ -29,7 +29,7 @@ The final chart only includes those players who attempted at least the average f
 
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/LA%20Clippers.png)
 
-## Scatter Plot output from Team - Visual_ShotChart-Offensive & Defensive.ipynb
+## Scatter Plot output from Team - Visual ShotChart-Offensive & Defensive.ipynb
 • Detailed offensive & defensive shot chart of every NBA team; with average distances made(offensive) and made against(defensive) from three (Above the Break) and overall two
 
 • Below are the offensive & defensive shotcharts for the Lakers and Rockets for the 2019-20 season so far:
