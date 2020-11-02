@@ -50,9 +50,9 @@ The final chart only includes those players who attempted at least the average f
     - Defensive Shotchart VS League
     - Defensive Shotchart VS LA Clippers
 
-![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Shot%20Chart%20VS%20League.png)
+![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Shotchart%20VS%20League.png)
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Player%20Breakdown%202019-20.png)
-![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Shot%20Chart%20VS%20LA%20Clippers.png)
+![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Shotchart%20VS%20LA%20Clippers.png)
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Player%20Breakdown%20VS%20LA%20Clippers.png)
-![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Defensive%20Shot%20Chart%20VS%20League.png)
-![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Defensive%20Shot%20Chart%20VS%20LA%20Clippers.png)
+![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Defensive%20Shotchart%20VS%20League.png)
+![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Defensive%20Shotchart%20VS%20LA%20Clippers.png)
