@@ -30,25 +30,25 @@ The final chart only includes those players who attempted at least the average f
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/LA%20Clippers.png)
 
 ## Outputs from NBA ShotCharts Regular Season and Playoffs - Offensive & Defensive.ipynb
-•  Can view **Offensive** or **Defensive** Shotchart for either the **Regular Season** or **Playoffs**
-•  Can view these Shotcharts either against the League or against a specific team
-    • % background colors are based off proximity to league average for the % in that court location
-    • % size based off proximity to league average for attempts in that court location
-    • Contains 4 plot markers:
+-  Can view **Offensive** or **Defensive** Shotchart for either the **Regular Season** or **Playoffs**
+-  Can view these Shotcharts either against the League or against a specific team
+    - % background colors are based off proximity to league average for the % in that court location
+    - % size based off proximity to league average for attempts in that court location
+    - Contains 4 plot markers:
         - **Average Above the Break 3 Left Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
         - **Average Above the Break 3 Center Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
         - **Average Above the Break 3 Right Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
         - **Average 2 Pointer Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
-•  Can drill down the **Offensive Shotcharts** by **Player**
-    • **Scatter Plot** displaying **%** and **shooting volume** for players averaging over **20 Min per Game**
+    -  Can drill down the **Offensive Shotcharts** by **Player**
+        - **Scatter Plot** displaying **%** and **shooting volume** for players averaging over **20 Min per Game**
 
-• Below are some select shotcharts for the Lakers for the complete 2019-20 season:
-    • Offensive Shotchart VS League
-    • Offensive Player Breakdown
-    • Offensive Shotchart VS LA Clippers
-    • Offensive Player Breakdown VS LA Clippers
-    • Defensive Shotchart VS League
-    • Defensive Shotchart VS LA Clippers
+-  Below are some select shotcharts for the Lakers for the complete 2019-20 season:
+    - Offensive Shotchart VS League
+    - Offensive Player Breakdown
+    - Offensive Shotchart VS LA Clippers
+    - Offensive Player Breakdown VS LA Clippers
+    - Defensive Shotchart VS League
+    - Defensive Shotchart VS LA Clippers
 
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Shot%20Chart%20VS%20League.png)
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Offensive%20Player%20Breakdown%202019-20.png)
