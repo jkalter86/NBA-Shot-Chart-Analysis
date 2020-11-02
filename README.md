@@ -29,10 +29,20 @@ The final chart only includes those players who attempted at least the average f
 
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/LA%20Clippers.png)
 
-## Scatter Plot output from Team - Visual ShotChart-Offensive & Defensive.ipynb
-• Detailed offensive & defensive shot chart of every NBA team; with average distances made(offensive) and made against(defensive) from three (Above the Break) and overall two
+## Outputs from NBA ShotCharts Regular Season and Playoffs - Offensive & Defensive.ipynb
+-  Can view **Offensive** or **Defensive** Shotchart for either the **Regular Season** or **Playoffs**
+-  Can view these Shotcharts either against the League or against a specific team
+    - % background colors are based off proximity to league average for the % in that court location
+    - % size based off proximity to league average for attempts in that court location
+    - Contains 4 plot markers:
+        - **Average Above the Break 3 Left Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
+        - **Average Above the Break 3 Center Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
+        - **Average Above the Break 3 Right Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
+        - **Average 2 Pointer Distance** (Made or Offensive Shotchart/Allowed for Defensive Shotchart)
+-  Can drill down the **Offensive Shotcharts** by **Player**
+    - **Scatter Plot** displaying **%** and **shooting volume** for players averaging over **20 Min per Game**
 
-• Below are the offensive & defensive shotcharts for the Lakers and Rockets for the 2019-20 season so far:
+• Below are some select shotcharts for the Lakers for the complete 2019-20 season:
 
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Shot%20Chart.png)
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Shot%20Chart-Defensive.png)
