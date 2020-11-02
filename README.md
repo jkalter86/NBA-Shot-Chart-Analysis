@@ -24,7 +24,7 @@ The final chart only includes those players who attempted at least the average f
 
 • Can run for each team; outputting the current roster and either current or historical shot data
 
-• Below is the LA Clippers Chart for the 2019-20 season so far:
+• Below is the LA Clippers Chart for the 2019-20 season pre Covid-19 shutdown:
 
 
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/LA%20Clippers.png)
