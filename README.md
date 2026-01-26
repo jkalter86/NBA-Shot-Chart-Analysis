@@ -98,30 +98,3 @@ jupyter notebook "NBA Shot Charts Regular Season and Playoffs - Offensive & Defe
 ## Author
 Data Scientist specializing in sports analytics and machine learning
 ```
-
----
-
-### **2. Add Critical Missing Files**
-
-**Create immediately:**
-
-1. **`requirements.txt`**
-```
-pandas>=1.3.0
-numpy>=1.21.0
-plotly>=5.0.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
-scikit-learn>=0.24.0
-nba_api>=1.1.0
-jupyter>=1.0.0
-```
-
-2. **`.gitignore`**
-```
-*.pyc
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
-*.pkl
-data/cache/
