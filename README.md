@@ -1,4 +1,4 @@
-# This project has evolved into [nba-lineup-analytics](https://github.com/jkalter86/nba-lineup-analytics)."
+> **Note:** This project has evolved into [nba-lineup-analytics](https://github.com/jkalter86/nba-lineup-analytics) — an expanded platform with real multi-source data pipelines, lineup efficiency modeling, and an interactive dashboard.
 
 # NBA Shot Chart Analysis & Optimization
 
