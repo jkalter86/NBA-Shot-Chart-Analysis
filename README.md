@@ -1,3 +1,5 @@
+# This project has evolved into nba-lineup-analytics.
+
 # NBA Shot Chart Analysis & Optimization
 
 ## Overview
