@@ -1,4 +1,4 @@
-# This project has evolved into nba-lineup-analytics.
+# This project has evolved into [nba-lineup-analytics](https://github.com/jkalter86/nba-lineup-analytics)."
 
 # NBA Shot Chart Analysis & Optimization
 
