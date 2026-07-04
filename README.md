@@ -64,7 +64,7 @@ Advanced shot chart analysis system for NBA teams using spatial statistics, mach
 ![Alt text](https://github.com/jkalter86/NBA-Shot-Chart-Analysis/blob/master/Los%20Angeles%20Lakers%20Defensive%20Shotchart%20VS%20LA%20Clippers.png)
 
 
-[Include your Lakers visualizations here]
+
 
 ## Data Sources
 - NBA Stats API via [nba_api](https://github.com/swar/nba_api)
